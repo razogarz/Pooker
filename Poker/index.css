@@ -1,0 +1,20 @@
+.container {
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+
+.gracz {
+    position: relative;
+    width: 49vw;
+    height: 400px;
+    margin:10px;
+    background-color: #e36b6b;
+    opacity:0.8;
+    color: #f0e4e4;
+}
+
+h1 {
+    text-align:center;
+}
